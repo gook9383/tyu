@@ -1,0 +1,7 @@
+{
+  "name": "solana-radar-bot",
+  "version": "1.0.0",
+  "description": "Twitter bot for solanaradar.space",
+  "main": "bot.js",
+  "scripts": { "start": "node bot.js" }
+}
